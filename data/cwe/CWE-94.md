@@ -1,0 +1,10 @@
+# CWE-94: Improper Control of Generation of Code ('Code Injection')
+
+Description
+    
+
+
+
+
+
+The product constructs all or part of a code segment using externally-influenced input from an upstream component, but it does not neutralize or incorrectly neutralizes special elements that could modify the syntax or behavior of the intended code segment.
