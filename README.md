@@ -8,10 +8,6 @@
 **CodeGuard AI** is a lightweight, extensible framework that combines **large-language models (LLMs)** with **static-analysis signals** to find, explain, and rank security flaws in source code.  
 It couples *retrieval-augmented generation* (RAG) with graph-based context construction to produce **human-readable, line-level vulnerability reports**—turning hours of code review into minutes.
 
-<p align="center">
-  <img src="docs/assets/demo_screenshot.png" alt="Demo screenshot showing vulnerability findings" width="780">
-</p>
-
 ---
 
 ## ✨ Key Features
